@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\japec\\.nuget\\packages\\": {}
+    "C:\\Users\\speed\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dotnet\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj",
+      "projectUniqueName": "D:\\www\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj",
       "projectName": "SistemaDeCadastroDeContatos",
-      "projectPath": "C:\\dotnet\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj",
-      "packagesPath": "C:\\Users\\japec\\.nuget\\packages\\",
-      "outputPath": "C:\\dotnet\\SistemaDeCadastroDeContatos\\obj\\",
+      "projectPath": "D:\\www\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj",
+      "packagesPath": "C:\\Users\\speed\\.nuget\\packages\\",
+      "outputPath": "D:\\www\\SistemaDeCadastroDeContatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\japec\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\speed\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
