@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E2ga3wSX3I9MvADm/WUwd/vuA+Z9kqgAg73+VUYvmWtikFrCUg/gEqdSFuzXUGeJEmdhOci3x7Boq4Y1n66pAQ==",
+  "dgSpecHash": "7ST/dqvZ1ZY6Tq2g+r1yCC8sa6oKS51u9qAGbHOpYSNcIXQYgXFKP0zhiVaCfdrU1i93SOAaADvib8cAct1TRw==",
   "success": true,
-  "projectFilePath": "D:\\www\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj",
+  "projectFilePath": "C:\\dotnet\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

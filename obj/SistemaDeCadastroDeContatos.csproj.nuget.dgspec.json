@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\www\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj": {}
+    "C:\\dotnet\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj": {}
   },
   "projects": {
-    "D:\\www\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj": {
+    "C:\\dotnet\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\www\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj",
+        "projectUniqueName": "C:\\dotnet\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj",
         "projectName": "SistemaDeCadastroDeContatos",
-        "projectPath": "D:\\www\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj",
-        "packagesPath": "C:\\Users\\speed\\.nuget\\packages\\",
-        "outputPath": "D:\\www\\SistemaDeCadastroDeContatos\\obj\\",
+        "projectPath": "C:\\dotnet\\SistemaDeCadastroDeContatos\\SistemaDeCadastroDeContatos.csproj",
+        "packagesPath": "C:\\Users\\japec\\.nuget\\packages\\",
+        "outputPath": "C:\\dotnet\\SistemaDeCadastroDeContatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\speed\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\japec\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
